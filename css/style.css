@@ -1797,6 +1797,7 @@ a:focus {
 .portfolio {
     position: relative;
     padding: 45px 0;
+    height: 190vh;
 }
 
 .portfolio #portfolio-flters {
