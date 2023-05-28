@@ -1,6 +1,14 @@
 /*******************************/
 /********* General CSS *********/
 /*******************************/
+::-webkit-scrollbar{
+    background: lavender;
+    width: 8px;
+}
+::-webkit-scrollbar-thumb{
+    background: teal;
+    border-radius: 5px;   
+}
 body {
     color: #666666;
     background: #dddddd;
