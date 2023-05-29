@@ -16,6 +16,22 @@ body {
     font-weight: 400;
 }
 
+
+
+    .edge{
+        position: absolute;
+        top: 470px;
+        right: 270px;
+        width: 10px; 
+        height: 10px;
+        z-index: 1000;
+    }
+
+
+
+
+
+
 h1,
 h2, 
 h3, 
